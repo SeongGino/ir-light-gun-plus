@@ -1,3 +1,8 @@
+# THIS PROJECT IS OUTDATED AND WILL NOT RECEIVE UPDATES
+### All development has been moved to the [OpenFIRE Project](https://github.com/TeamOpenFIRE); thank you for your understanding and support!
+
+___
+
 ###### If you enjoy or if my work's helped you in any way,
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5NNXWL)
 # IR-GUN4ALL - An Expanded Arduino-powered Light Gun System 
